@@ -14,32 +14,6 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
   <a href="https://mailuc-my.sharepoint.com/:b:/g/personal/singhk6_mail_uc_edu/Efzdo8ozdSpInJYqJzLLqkcBW7n1fw4DKwYT2GdOkuByVg" target="_blank"><img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
 </p>
 <details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/Kartavya904/2024-Future-of-Data-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-Future-of-Data-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 Future of Data Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/2024-RevolutionUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-RevolutionUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 RevolutionUC Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/2023-MakeUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2023-MakeUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2023 MakeUC Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/Hackathon_Project_Files"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Hackathon_Project_Files&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Hackathon Project Files" /></a>
-    <a href="https://github.com/Kartavya904/Robot-Codes"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Robot-Codes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Robot Codes" /></a>
-    <a href="https://github.com/Kartavya904/AniRaid_CD-Bot-Latest"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=AniRaid_CD-Bot-Latest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniRaid CD Bot Latest" /></a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Kartavya904?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </p>
-</details>
-<details open>
-  <summary><h2>🚀 Live Demo for Projects</h2></summary>
-  <p>Below are some live demos of my projects. Click on the thumbnail to view the project on DevPost!</p>
-  <p align="left">
-    <a href="https://devpost.com/software/finvest-budget-smart-invest-sharp" target="_blank"><img src="https://ytcards.demolab.com/?id=tORwdk8SPFw&title=FinVest+Budget+Smart+Invest+Sharp&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="FinVest Budget Smart Invest Sharp" title="FinVest Budget Smart Invest Sharp"></a>
-    <a href="https://devpost.com/software/faunafinder-ai-powered-animal-breed-recognition" target="_blank"><img src="https://ytcards.demolab.com/?id=2KGRbdVTbyU&title=FaunaFinder+AI+Powered+Animal+Breed+Recognition&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=130" alt="FaunaFinder AI Powered Animal Breed Recognition" title="FaunaFinder AI Powered Animal Breed Recognition"></a>
-    <a href="https://devpost.com/software/bearchat" target="_blank"><img src="https://ytcards.demolab.com/?id=oz7M1XptE8Q&title=BearChat&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=152" alt="BearChat" title="BearChat"></a>
-    <a href="https://devpost.com/software/virtual-office-space" target="_blank"><img src="https://ytcards.demolab.com/?id=oU7lyxzS4Bo&title=Virtual+Office+Space&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=155" alt="Virtual Office Space" title="Virtual Office Space"></a>
-    <a href="https://devpost.com/software/healthsphere" target="_blank"><img src="https://ytcards.demolab.com/?id=K74ENN8pJXU&title=HealthSphere&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=142" alt="HealthSphere" title="HealthSphere"></a>
-    <a href="https://devpost.com/software/librestricted" target="_blank"><img src="https://ytcards.demolab.com/?id=4jCCUUBLt74&title=LibRestricted&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=160" alt="LibRestricted" title="LibRestricted"></a>
-  </p>
-</details>
-<details open>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <h3>Proficient</h3><p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -93,5 +67,31 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
     <img src="https://img.shields.io/badge/VanillaJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla.js"/>
     <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
     <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive (PyHive)"/>
+  </p>
+</details>
+<details open>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Kartavya904/2024-Future-of-Data-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-Future-of-Data-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 Future of Data Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/2024-RevolutionUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-RevolutionUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 RevolutionUC Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/2023-MakeUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2023-MakeUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2023 MakeUC Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/Hackathon_Project_Files"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Hackathon_Project_Files&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Hackathon Project Files" /></a>
+    <a href="https://github.com/Kartavya904/Robot-Codes"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Robot-Codes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Robot Codes" /></a>
+    <a href="https://github.com/Kartavya904/AniRaid_CD-Bot-Latest"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=AniRaid_CD-Bot-Latest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniRaid CD Bot Latest" /></a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Kartavya904?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
+</details>
+<details open>
+  <summary><h2>🚀 Live Demo for Projects</h2></summary>
+  <p>Below are some live demos of my projects. Click on the thumbnail to view the project on DevPost!</p>
+  <p align="left">
+    <a href="https://devpost.com/software/finvest-budget-smart-invest-sharp" target="_blank"><img src="https://ytcards.demolab.com/?id=tORwdk8SPFw&title=FinVest+Budget+Smart+Invest+Sharp&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="FinVest Budget Smart Invest Sharp" title="FinVest Budget Smart Invest Sharp"></a>
+    <a href="https://devpost.com/software/faunafinder-ai-powered-animal-breed-recognition" target="_blank"><img src="https://ytcards.demolab.com/?id=2KGRbdVTbyU&title=FaunaFinder+AI+Powered+Animal+Breed+Recognition&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=130" alt="FaunaFinder AI Powered Animal Breed Recognition" title="FaunaFinder AI Powered Animal Breed Recognition"></a>
+    <a href="https://devpost.com/software/bearchat" target="_blank"><img src="https://ytcards.demolab.com/?id=oz7M1XptE8Q&title=BearChat&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=152" alt="BearChat" title="BearChat"></a>
+    <a href="https://devpost.com/software/virtual-office-space" target="_blank"><img src="https://ytcards.demolab.com/?id=oU7lyxzS4Bo&title=Virtual+Office+Space&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=155" alt="Virtual Office Space" title="Virtual Office Space"></a>
+    <a href="https://devpost.com/software/healthsphere" target="_blank"><img src="https://ytcards.demolab.com/?id=K74ENN8pJXU&title=HealthSphere&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=142" alt="HealthSphere" title="HealthSphere"></a>
+    <a href="https://devpost.com/software/librestricted" target="_blank"><img src="https://ytcards.demolab.com/?id=4jCCUUBLt74&title=LibRestricted&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=160" alt="LibRestricted" title="LibRestricted"></a>
   </p>
 </details>
