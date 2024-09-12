@@ -17,6 +17,9 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
     <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api/?username=Kartavya904&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Kartavya's GitHub stats" height="192px"/></a>
     <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavya904&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Kartavya's top languages" height="192px"/></a>
+    </br>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <a href="https://github.com/Kartavya904/github-readme-activity-graph"><img alt="Kartavya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kartavya904&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 <details open>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
