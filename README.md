@@ -1,4 +1,7 @@
-# Kartavya Singh
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Kartavya+Singh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=F75C7E&repeat=true&width=600&height=45&vCenter=true&size=24&lines=Hello+World!;Experienced+Full+Stack+Developer;Crafting+AI-Powered+Solutions;Mastering+Data+Science+and+Analytics;Developing+with+Curiosity+and+Expertise;Always+Learning%2C+Always+Innovating" alt="Typing SVG" />
+</p>
 
 **`Innovative Full Stack Software Engineer (Full Stack Development | AI Applications | Data Science)`**
 
