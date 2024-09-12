@@ -15,10 +15,8 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
 </p>
 <details open>
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
-  <p align="left">
-    <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api?username=Kartavya904&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Kartavya's GitHub stats" width="330"/></a>
-    <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavya904&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Kartavya's top languages" width="330"/></a>
-  </p>
+    <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api/?username=Kartavya904&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Kartavya's GitHub stats" height="192px"/></a>
+    <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavya904&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Kartavya's top languages" height="192px"/></a>
 </details>
 <details open>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
@@ -79,12 +77,12 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/Kartavya904/2024-Future-of-Data-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-Future-of-Data-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 Future of Data Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/2024-RevolutionUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-RevolutionUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 RevolutionUC Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/2023-MakeUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2023-MakeUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2023 MakeUC Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/Hackathon_Project_Files"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Hackathon_Project_Files&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Hackathon Project Files" /></a>
-    <a href="https://github.com/Kartavya904/Robot-Codes"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Robot-Codes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Robot Codes" /></a>
-    <a href="https://github.com/Kartavya904/AniRaid_CD-Bot-Latest"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=AniRaid_CD-Bot-Latest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniRaid CD Bot Latest" /></a>
+    <a href="https://github.com/Kartavya904/2024-Future-of-Data-Hackathon"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-Future-of-Data-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024 Future of Data Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/2024-RevolutionUC-Hackathon"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-RevolutionUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024 RevolutionUC Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/2023-MakeUC-Hackathon"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2023-MakeUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023 MakeUC Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/Hackathon_Project_Files"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Hackathon_Project_Files&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hackathon Project Files" /></a>
+    <a href="https://github.com/Kartavya904/Robot-Codes"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Robot-Codes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robot Codes" /></a>
+    <a href="https://github.com/Kartavya904/AniRaid_CD-Bot-Latest"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=AniRaid_CD-Bot-Latest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AniRaid CD Bot Latest" /></a>
   </p>
   <p align="center">
     <a href="https://github.com/Kartavya904?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
