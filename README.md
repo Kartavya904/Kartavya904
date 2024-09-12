@@ -28,6 +28,18 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
   </p>
 </details>
 <details open>
+  <summary><h2>🚀 Live Demo for Projects</h2></summary>
+  <p>Below are some live demos of my projects. Click on the thumbnail to view the project on DevPost!</p>
+  <p align="left">
+    <a href="https://devpost.com/software/finvest-budget-smart-invest-sharp" target="_blank"><img src="https://ytcards.demolab.com/?id=tORwdk8SPFw&title=FinVest+Budget+Smart+Invest+Sharp&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="FinVest Budget Smart Invest Sharp" title="FinVest Budget Smart Invest Sharp"></a>
+    <a href="https://devpost.com/software/faunafinder-ai-powered-animal-breed-recognition" target="_blank"><img src="https://ytcards.demolab.com/?id=2KGRbdVTbyU&title=FaunaFinder+AI+Powered+Animal+Breed+Recognition&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=130" alt="FaunaFinder AI Powered Animal Breed Recognition" title="FaunaFinder AI Powered Animal Breed Recognition"></a>
+    <a href="https://devpost.com/software/bearchat" target="_blank"><img src="https://ytcards.demolab.com/?id=oz7M1XptE8Q&title=BearChat&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=152" alt="BearChat" title="BearChat"></a>
+    <a href="https://devpost.com/software/virtual-office-space" target="_blank"><img src="https://ytcards.demolab.com/?id=oU7lyxzS4Bo&title=Virtual+Office+Space&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=155" alt="Virtual Office Space" title="Virtual Office Space"></a>
+    <a href="https://devpost.com/software/healthsphere" target="_blank"><img src="https://ytcards.demolab.com/?id=K74ENN8pJXU&title=HealthSphere&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=142" alt="HealthSphere" title="HealthSphere"></a>
+    <a href="https://devpost.com/software/librestricted" target="_blank"><img src="https://ytcards.demolab.com/?id=4jCCUUBLt74&title=LibRestricted&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=160" alt="LibRestricted" title="LibRestricted"></a>
+  </p>
+</details>
+<details open>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <h3>Proficient</h3><p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
