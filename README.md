@@ -14,6 +14,13 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
   <a href="https://mailuc-my.sharepoint.com/:b:/g/personal/singhk6_mail_uc_edu/Efzdo8ozdSpInJYqJzLLqkcBW7n1fw4DKwYT2GdOkuByVg" target="_blank"><img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
 </p>
 <details open>
+  <summary><h2>📊 GitHub Stats & Activity</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api?username=Kartavya904&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Kartavya's GitHub stats" width="330"/></a>
+    <a href="https://github.com/Kartavya904"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartavya904&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Kartavya's top languages" width="330"/></a>
+  </p>
+</details>
+<details open>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <h3>Proficient</h3><p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
