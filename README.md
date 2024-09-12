@@ -18,23 +18,20 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/Kartavya904/2024-Future-of-Data-Hackathon"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-Future-of-Data-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024 Future of Data Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/2024-RevolutionUC-Hackathon"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-RevolutionUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024 RevolutionUC Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/2023-MakeUC-Hackathon"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2023-MakeUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023 MakeUC Hackathon" /></a>
-    <a href="https://github.com/Kartavya904/Hackathon_Project_Files"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Hackathon_Project_Files&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hackathon Project Files" /></a>
-    <a href="https://github.com/Kartavya904/Robot-Codes"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Robot-Codes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robot Codes" /></a>
-    <a href="https://github.com/Kartavya904/AniRaid_CD-Bot-Latest"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=AniRaid_CD-Bot-Latest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AniRaid CD Bot Latest" /></a>
+    <a href="https://github.com/Kartavya904/2024-Future-of-Data-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-Future-of-Data-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 Future of Data Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/2024-RevolutionUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2024-RevolutionUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2024 RevolutionUC Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/2023-MakeUC-Hackathon"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=2023-MakeUC-Hackathon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="2023 MakeUC Hackathon" /></a>
+    <a href="https://github.com/Kartavya904/Hackathon_Project_Files"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Hackathon_Project_Files&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Hackathon Project Files" /></a>
+    <a href="https://github.com/Kartavya904/Robot-Codes"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=Robot-Codes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Robot Codes" /></a>
+    <a href="https://github.com/Kartavya904/AniRaid_CD-Bot-Latest"><img width="278" height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartavya904&repo=AniRaid_CD-Bot-Latest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AniRaid CD Bot Latest" /></a>
   </p>
   <p align="center">
-    <a href="https://github.com/Kartavya904?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+    <a href="https://github.com/Kartavya904?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </details>
 <details open>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
-  <h3>Proficient</h3>
-  <p align="left">
+  <h3>Proficient</h3><p align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -56,9 +53,7 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
     <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
     <img src="https://img.shields.io/badge/Reinforcement%20Learning-4285F4?style=for-the-badge&logo=brain&logoColor=white" alt="Reinforcement Learning"/>
     <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP"/>
-  </p>
-  <h3>Intermediate</h3>
-  <p align="left">
+  </p><h3>Intermediate</h3><p align="left">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
@@ -78,9 +73,7 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
     <img src="https://img.shields.io/badge/Deep%20Learning%20Architectures-FF6F00?style=for-the-badge&logo=neuralnetwork&logoColor=white" alt="Deep Learning Architectures"/>
     <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </p>
-  <h3>Beginner</h3>
-  <p align="left">
+  </p><h3>Beginner</h3><p align="left">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
