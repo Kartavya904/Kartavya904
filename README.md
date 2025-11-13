@@ -11,7 +11,7 @@ I’m Kartavya Singh, a Computer Science student at the University of Cincinnati
   <a href="https://devpost.com/Kartavya904" target="_blank"><img src="https://img.shields.io/badge/DevPost-FF6C37?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost"></a>
   <a href="https://www.linkedin.com/in/kartavya-singh-singhk6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:singhk6@mail.uc.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mailuc-my.sharepoint.com/:b:/g/personal/singhk6_mail_uc_edu/EcR0Mpmvt9hMl0lN1asUEHkBNMPloVaoYiU9pHKbnLwR7A?e=kuhnCr" target="_blank"><img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
+  <a href="https://mailuc-my.sharepoint.com/:b:/g/personal/singhk6_mail_uc_edu/Eeqs8W0Kjo5JuL3ympz3CL4BaX6vkbKOWAWs6tMYLQ6yrA?e=2dogAJ" target="_blank"><img src="https://img.shields.io/badge/Download%20Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
 </p>
 <details open>
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
